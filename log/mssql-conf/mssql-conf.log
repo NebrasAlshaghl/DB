@@ -1,0 +1,74 @@
+2022-05-15 11:18:14,029:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:14,029:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:14,029:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:14,029:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:14,029:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Added shutdown hook to ensure ownership on the log files is correct.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Logging has been fully configured.
+2022-05-15 11:18:14,030:INFO:mssql-conf: Executing command: [welcome]
+2022-05-15 11:18:14,031:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:14,031:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:14,032:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
+2022-05-15 11:18:14,137:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Added shutdown hook to ensure ownership on the log files is correct.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Logging has been fully configured.
+2022-05-15 11:18:14,138:INFO:mssql-conf: Executing command: [set]
+2022-05-15 11:18:14,139:INFO:mssql-conf: Writing configuration to file: [/var/opt/mssql/mssql.conf]
+2022-05-15 11:18:14,139:INFO:mssql-conf: Executed command [set] successfully
+2022-05-15 11:18:14,139:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:14,139:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:14,139:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:14,139:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:14,139:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:14,139:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:14,140:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:14,140:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:14,140:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
+2022-05-15 11:18:21,767:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:21,767:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Added shutdown hook to ensure ownership on the log files is correct.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Logging has been fully configured.
+2022-05-15 11:18:21,768:INFO:mssql-conf: Executing command: [setup]
+2022-05-15 11:18:21,768:INFO:mssql-conf: Running script: [/opt/mssql/lib/mssql-conf/checkinstall.sh]
+2022-05-15 11:18:21,775:INFO:mssql-conf: Script gave output: [usermod: no changes
+]
+2022-05-15 11:18:21,775:INFO:mssql-conf: Running script: [/opt/mssql/lib/mssql-conf/checkrunninginstance.sh]
+2022-05-15 11:18:21,798:INFO:mssql-conf: Script gave output: []
+2022-05-15 11:18:28,971:INFO:mssql-conf: Writing configuration to file: [/var/opt/mssql/mssql.conf]
+2022-05-15 11:18:28,971:INFO:mssql-conf: Running script: [/opt/mssql/lib/mssql-conf/checkrunninginstance.sh]
+2022-05-15 11:18:28,984:INFO:mssql-conf: Script gave output: []
+2022-05-15 11:18:53,737:INFO:mssql-conf: Executed command [setup] successfully
+2022-05-15 11:18:53,737:INFO:mssql-conf: Trying to make owner and group of the log files at /var/opt/mssql/log/mssql-conf mssql.
+2022-05-15 11:18:53,737:INFO:mssql-conf: Found user ID (997) and group ID (997) for user mssql.
+2022-05-15 11:18:53,738:INFO:mssql-conf: Trying chown the directory.
+2022-05-15 11:18:53,738:INFO:mssql-conf: Succesfully chown'd the directory.
+2022-05-15 11:18:53,738:INFO:mssql-conf: Trying to set ownership for file /var/opt/mssql/log/mssql-conf/mssql-conf.log.
+2022-05-15 11:18:53,738:INFO:mssql-conf: Successfully set ownership for file.
+2022-05-15 11:18:53,739:INFO:mssql-conf: Changing the permissions of the file to 660.
+2022-05-15 11:18:53,739:INFO:mssql-conf: Changed the permissions of the file.
+2022-05-15 11:18:53,739:INFO:mssql-conf: Successfully changed ownership for the directory /var/opt/mssql/log/mssql-conf and all files in that directory.
